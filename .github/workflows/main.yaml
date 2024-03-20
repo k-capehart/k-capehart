@@ -16,3 +16,6 @@ jobs:
         with:
           trailhead-username: kcapehart
           display-type: 'card'
+          display-file: 'README.md'
+          file-format: 'md'
+          card-path: './'
