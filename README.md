@@ -5,7 +5,7 @@
     <li><img src="wheel.png" width="25px"/> Lead Salesforce Developer at American Tire Distributors (ATD)</li>
     <li><img src="code.png" width="25px"/> Apex, TypeScript, JavaScript, Python, Go</li>
     <li><img src="knight.png" width="25px"/> Computer Science - University of Central Florida</li>
-    <li><img src="website_logo.png" width="15px"/> Read my blog at: <a href="https://kylecapehart.com/posts" target="_blank">kylecapehart.com</a></li>
+    <li><img src="website_logo.png" width="25px"/> Read my blog at: <a href="https://kylecapehart.com/posts" target="_blank">kylecapehart.com</a></li>
 </ul>
 
 <div style="display: flex; flex-direction: row;">
