@@ -8,13 +8,13 @@
 </div>
 <br/>
 <div style="display: flex; flex-direction: row;">
-    <a style="padding-left: 10px;" href="https://www.linkedin.com/in/kyle-capehart/" alt="Trailhead Profile" target="_blank">
-        <img src="linkedin.png" width="50px" style="border: none;"/>
+    <a style="padding-left: 10px; text-decoration: none;" href="https://www.linkedin.com/in/kyle-capehart/" alt="Trailhead Profile" target="_blank">
+        <img src="linkedin.png" width="50px"/>
     </a>
-    <a style="padding-left: 15px;" href="https://www.salesforce.com/trailblazer/kcapehart" alt="LinkedIn Profile" target="_blank">
-        <img src="trailhead.png" width="55px" style="border: none;"/>
+    <a style="padding-left: 15px; text-decoration: none;" href="https://www.salesforce.com/trailblazer/kcapehart" alt="LinkedIn Profile" target="_blank">
+        <img src="trailhead.png" width="55px"/>
     </a>
-    <a style="padding-left: 10px;" href="https://kylecapehart.com" alt="Personal Website and Blog" target="_blank">
-        <img src="website_logo.png" width="50px" style="border: none;"/>
+    <a style="padding-left: 10px; text-decoration: none;" href="https://kylecapehart.com" alt="Personal Website and Blog" target="_blank">
+        <img src="website_logo.png" width="50px"/>
     </a>
 </div>
