@@ -18,7 +18,7 @@ jobs:
       - uses: nabondance/trailhead-stats@v1.0.2
         with:
           trailhead-username: kcapehart
-          display-type: 'card'
+          display-type: 'text'
           display-file: 'README.md'
           file-format: 'md'
           card-path: './'
