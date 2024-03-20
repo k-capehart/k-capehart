@@ -8,17 +8,17 @@
 </div>
 <br/>
 <div style="display: flex; flex-direction: row;">
-    <div style="padding-left: 10px; text-decoration: none;">
+    <div style="text-decoration: none;">
         <a href="https://www.linkedin.com/in/kyle-capehart/" alt="Trailhead Profile" target="_blank">
             <img src="linkedin.png" width="50px"/>
         </a>
     </div>
-    <div style="padding-left: 15px; text-decoration: none;">
+    <div style="text-decoration: none;">
         <a href="https://www.salesforce.com/trailblazer/kcapehart" alt="LinkedIn Profile" target="_blank">
             <img src="trailhead.png" width="55px"/>
         </a>
     </div>
-    <div style="padding-left: 10px; text-decoration: none;">
+    <div style="text-decoration: none;">
         <a href="https://kylecapehart.com" alt="Personal Website and Blog" target="_blank">
             <img src="website_logo.png" width="50px"/>
         </a>
