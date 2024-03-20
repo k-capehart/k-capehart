@@ -1,5 +1,4 @@
 
-<h3>About Me</h3>
 <div style="display: flex; flex-direction: column;">
     <div><img src="hacker.png" width="25px"/>  Software Engineer</div>
     <div><img src="wheel.png" width="25px"/>  Lead Salesforce Developer at American Tire Distributors (ATD)</div>
@@ -8,7 +7,7 @@
     <div><img src="website_logo.png" width="25px"/>  Read my blog at: <a href="https://kylecapehart.com/posts" target="_blank">kylecapehart.com</a></div>
 </div>
 <br/>
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row; margin-bottom: 5px;">
     <a style="margin: 5px;" href="https://www.linkedin.com/in/kyle-capehart/" alt="Trailhead Profile" target="_blank">
         <img src="linkedin.png" width="50px"/>
     </a>
