@@ -10,6 +10,5 @@
  Last Certification earned: Salesforce Certified Platform Developer II
  Main skill: CRM
  Number of Stamps Earned: 0
-
 <!--TH_Stats:end-->
 
