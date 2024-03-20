@@ -7,14 +7,14 @@
     <div><img src="website_logo.png" width="25px"/>  Read my blog at: <a href="https://kylecapehart.com/posts" target="_blank">kylecapehart.com</a></div>
 </div>
 <br/>
-<div style="display: flex; flex-direction: row;">
-    <a href="https://www.linkedin.com/in/kyle-capehart/" alt="Trailhead Profile" target="_blank">
+<div style="display: flex; flex-direction: row; text-decoration: none;">
+    <a href="https://www.linkedin.com/in/kyle-capehart/" alt="Trailhead Profile" target="_blank" style="margin-left: 10px; text-decoration: none;">
         <img src="linkedin.png" width="50px" style="text-decoration: none;"/>
     </a>
-    <a href="https://www.salesforce.com/trailblazer/kcapehart" alt="LinkedIn Profile" target="_blank">
+    <a href="https://www.salesforce.com/trailblazer/kcapehart" alt="LinkedIn Profile" target="_blank" style="margin-left: 10px; text-decoration: none;">
         <img src="trailhead.png" width="55px" style="text-decoration: none;"/>
     </a>
-    <a href="https://kylecapehart.com" alt="Personal Website and Blog" target="_blank">
+    <a href="https://kylecapehart.com" alt="Personal Website and Blog" target="_blank" style="margin-left: 10px; text-decoration: none;">
         <img src="website_logo.png" width="50px" style="text-decoration: none;"/>
     </a>
 </div>
