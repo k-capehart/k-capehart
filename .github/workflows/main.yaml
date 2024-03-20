@@ -3,6 +3,9 @@ name: Update Trailhead Stats
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily
+  push:
+    branches:
+        - main
 
 jobs:
   update-stats:
