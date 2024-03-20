@@ -1,4 +1,12 @@
 
+<head>
+    <style>
+        .social {
+            padding-left: 10px; text-decoration: none;
+        }
+    </style>
+</head>
+
 <div style="display: flex; flex-direction: column;">
     <div><img src="hacker.png" width="25px"/>  Software Engineer</div>
     <div><img src="wheel.png" width="25px"/>  Lead Salesforce Developer at American Tire Distributors (ATD)</div>
@@ -18,9 +26,3 @@
         <img src="website_logo.png" width="50px"/>
     </a>
 </div>
-
-<style>
-    .social {
-        padding-left: 10px; text-decoration: none;
-    }
-</style>
