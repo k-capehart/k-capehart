@@ -4,11 +4,6 @@
  - Lead Salesforce Developer at American Tire Distributors (ATD)
  - Apex, TypeScript, JavaScript, Python, Go
  - Computer Science - University of Central Florida
- - Salesforce Certifications:
-    - Platform Developer II
-    - Platform Developer I
-    - App Builder
-    - Administrator
  - Read my blog at: https://kylecapehart.com/posts
 
 <div style="display: flex; flex-direction: row;">
