@@ -6,11 +6,9 @@
     <div><img src="assets/img/website_logo.png" width="25px" alt="man at computer"/>  Read my blog at: <a href="https://kylecapehart.com" target="_blank">kylecapehart.com</a></div>
 </div>
 <br/>
-
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS" alt="Personal Website and Blog" target="_blank" style="padding-left: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS" alt="man at computer"/></a>
-<br/>
-
 <div style="display: flex; flex-direction: row;">
-    <a href="https://www.linkedin.com/in/kyle-capehart/" alt="Trailhead Profile" target="_blank" style="padding-left: 15px;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/><a>
-    <a href="https://www.salesforce.com/trailblazer/kcapehart" alt="LinkedIn Profile" target="_blank" style="padding-left: 15px;"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce Trailhead logo"/></a>
+    <a href="https://www.linkedin.com/in/kyle-capehart/" alt="Trailhead Profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/><a>
+    <a href="https://www.salesforce.com/trailblazer/kcapehart" alt="LinkedIn Profile" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce Trailhead logo"/></a>
 </div>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS" alt="Personal Website and Blog" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS" alt="man at computer"/></a>
+<br/>
