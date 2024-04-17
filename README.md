@@ -10,5 +10,5 @@
     <a href="https://www.linkedin.com/in/kyle-capehart/" alt="Trailhead Profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo"/><a>
     <a href="https://www.salesforce.com/trailblazer/kcapehart" alt="LinkedIn Profile" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce Trailhead logo"/></a>
 </div>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS" alt="Personal Website and Blog" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS" alt="man at computer"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="Personal Website and Blog" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="man at computer"/></a>
 <br/>
