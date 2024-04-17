@@ -11,5 +11,6 @@
     <a href="https://www.salesforce.com/trailblazer/kcapehart" alt="LinkedIn Profile" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white" alt="Salesforce Trailhead logo"/></a>
 </div>
 
+<br/>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="Personal Website and Blog" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="man at computer"/></a>
 <br/>
