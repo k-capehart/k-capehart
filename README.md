@@ -1,6 +1,5 @@
 <div style="display: flex; flex-direction: column;">
     <div><img src="assets/img/hacker.png" width="25px" alt="hacker"/>  Software Engineer</div>
-    <div><img src="assets/img/cloud.png" width="25px" alt="pile of tires"/>  Lead Salesforce Developer</div>
     <div><img src="assets/img/code.png" width="25px" alt="computer screen with code"/>  Apex, TypeScript, JavaScript, Python, Go, Java</div>
     <div><img src="assets/img/knight.png" width="25px" alt="knight's helmet"/>  Computer Science @ University of Central Florida</div>
     <div><img src="assets/img/website_logo.png" width="25px" alt="man at computer"/>  View my website: <a href="https://kylecapehart.com" target="_blank">kylecapehart.com</a></div>
