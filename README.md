@@ -12,5 +12,5 @@
 </div>
 
 <br/>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="Personal Website and Blog" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="man at computer"/></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="Personal Website and Blog" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="github language stats"/></a>
 <br/>
