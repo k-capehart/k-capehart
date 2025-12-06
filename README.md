@@ -12,5 +12,5 @@
 </div>
 
 <br/>
-<a href="https://github-readme-stats-five-mu-27.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="Personal Website and Blog" target="_blank"><img src="https://github-readme-stats-five-mu-27.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="github language stats"/></a>
+<a href="https://github-readme-stats-five-mu-27.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS,HTML,TeX,C&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="Personal Website and Blog" target="_blank"><img src="https://github-readme-stats-five-mu-27.vercel.app/api/top-langs/?username=k-capehart&layout=compact&hide=CSS&exclude_repo=Agile-Central-Command-Web,Agile-Central-Command-API" alt="github language stats"/></a>
 <br/>
